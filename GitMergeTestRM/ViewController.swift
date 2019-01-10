@@ -26,37 +26,7 @@ class ViewController: UIViewController {
 
 
 
-    func testMethod() {
-        print("Hello")
-        print ("hi there")
-    }
     
-    func testMethod1() {
-        print("Hello")
-        print ("hi there")
-    }
-    
-    func rajmohan2() {
-        print("Hello")
-        print ("hi there")
-    }
-
-    func rajmohan3() {
-        print("Hello")
-        print ("hi there")
-    }
-    
-    func mac() {
-        print("mac")
-    }
-    func rajmohan4() {
-        print("Hello")
-        print ("hi there")
-    }
-    
-    func mac1() {
-        print("mac")
-    }
     
 }
 
