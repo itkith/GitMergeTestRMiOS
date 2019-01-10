@@ -30,6 +30,7 @@ class ViewController: UIViewController {
     }
     
     func ashwani() {
+        print("Hi")
         print("hello")
     }
     
