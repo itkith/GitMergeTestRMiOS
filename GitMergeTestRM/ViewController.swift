@@ -27,10 +27,10 @@ class ViewController: UIViewController {
         print("Test")
         ////
         print("Hello")
-    
+    }
     
     func ashwani() {
-        print("Hi")
+        print("hello")
     }
     
 }
