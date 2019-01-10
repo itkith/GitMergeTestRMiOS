@@ -30,6 +30,11 @@ class ViewController: UIViewController {
         print("Hello")
         print ("hi there")
     }
+    
+    func testMethod1() {
+        print("Hello")
+        print ("hi there")
+    }
 
 }
 
