@@ -38,5 +38,9 @@ class ViewController: UIViewController {
         ////
         print("Hello")
     }
+    func ashwani1() {
+        print("Hi")
+        print("hello")
+    }
 }
 
