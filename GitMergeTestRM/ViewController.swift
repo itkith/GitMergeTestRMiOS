@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        testMethod()
         // Do any additional setup after loading the view, typically from a nib.
         setPagelayout()
     }
@@ -24,6 +25,11 @@ class ViewController: UIViewController {
     }
 
 
-    
+
+    func testMethod() {
+        print("Hello")
+        print ("hi there")
+    }
+
 }
 
