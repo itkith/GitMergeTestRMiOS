@@ -22,10 +22,11 @@ class ViewController: UIViewController {
         print ("sum = \(a + b)")
         print("New changes")
     }
-
-
-
     
-    
+    func rajMohan() {
+        print("Test")
+        ////
+        print("Hello")
+    }
 }
 
