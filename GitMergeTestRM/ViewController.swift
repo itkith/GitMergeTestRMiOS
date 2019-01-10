@@ -27,6 +27,7 @@ class ViewController: UIViewController {
 
     func testMethod() {
         print("Hello")
+        print ("hi there")
     }
 }
 
