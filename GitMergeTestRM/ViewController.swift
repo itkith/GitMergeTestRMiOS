@@ -13,6 +13,13 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        setPagelayout()
+    }
+    
+    func setPagelayout() {
+        let a = 10;
+        let b = 20;
+        print ("sum = \(a + b)")
     }
 
 
