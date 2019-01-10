@@ -45,5 +45,11 @@ class ViewController: UIViewController {
         print("Hello")
         print ("hi there")
     }
+    
+    func mac() {
+        print("mac")
+    }
+    
+    
 }
 
